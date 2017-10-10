@@ -1,7 +1,7 @@
-Aluno: (Coloque aqui o seu nome e matricula)
+Aluno: Nathan Cunha- 0050011108
 Trabalho de Laboratorio de Sistemas Operacionais
 Professor: Alex Salgado
-1o. Semestre de 2017   Turno: ????
+1o. Semestre de 2017   Turno: Noite
 --------------------------------------------------
 Com relação aos comandos do SO Linux, responda as perguntas abaixo:
 
